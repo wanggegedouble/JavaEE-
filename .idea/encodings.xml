@@ -1,0 +1,43 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="Encoding">
+    <file url="file://$PROJECT_DIR$/JavaSE/XML/src/main/java" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/JavaSE/XML/src/main/resources" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/JavaSE/javaSE_00/src/main/java" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/JavaSE/javaSE_00/src/main/resources" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/JavaSE/javaSE_01_reflect/src/main/java" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/JavaSE/javaSE_01_reflect/src/main/resources" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/JavaSE/javaSE_02_proxy/src/main/java" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/JavaSE/javaSE_02_proxy/src/main/resources" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/JavaSE/javaSE_03_interface/src/main/java" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/JavaSE/javaSE_03_interface/src/main/resources" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/JavaSE/javaSE_04_File/src/main/java" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/JavaSE/javaSE_04_File/src/main/resources" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/JavaSE/src/main/java" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/JavaSE/src/main/resources" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/Mybatis/src/main/java" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/Mybatis/src/main/resources" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/MybatisPlus/src/main/java" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/MybatisPlus/src/main/resources" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/Spring/Spring_001_quickstart/src/main/java" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/Spring/Spring_001_quickstart/src/main/resources" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/Spring/Spring_00_quickstart/src/main/java" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/Spring/Spring_00_quickstart/src/main/resources" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/Spring/Spring_01_IOC/src/main/java" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/Spring/Spring_01_IOC/src/main/resources" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/Spring/Spring_02_IOC_quickstart/src/main/java" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/Spring/Spring_02_IOC_quickstart/src/main/resources" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/Spring/src/main/java" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/Spring/src/main/resources" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/SpringBoot/springboot_01_quickstart/src/main/java" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/SpringBoot/springboot_02_generate/src/main/java" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/SpringBoot/springboot_02_generate/src/main/resources" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/SpringBoot/src/main/java" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/SpringBoot/src/main/resources" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/SpringMVC/src/main/java" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/SpringMVC/src/main/resources" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/src/main/java" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/src/main/resources" charset="UTF-8" />
+    <file url="file://D:/apache-maven-3.8.6-bin/apache-maven-3.8.6/mavn_repository/org/springframework/boot/spring-boot-starter-parent/2.7.7/src/main/resources" charset="UTF-8" />
+  </component>
+</project>

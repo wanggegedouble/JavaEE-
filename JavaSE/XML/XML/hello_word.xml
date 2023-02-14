@@ -1,0 +1,9 @@
+<?xml version="1.0" encoding="utf-8" ?>
+<student>
+    <name>wangYao</name>
+    <age>19</age>
+    <num>12124</num>
+    <info>
+        <hobys>吃饭</hobys>
+    </info>
+</student>
