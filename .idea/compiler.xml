@@ -9,6 +9,7 @@
         <outputRelativeToContentRoot value="true" />
         <module name="JavaSE" />
         <module name="javaSE_02_proxy" />
+        <module name="JavaSE_05_IO" />
         <module name="Spring_001_quickstart" />
         <module name="javaSE_01_reflect" />
         <module name="SpringBoot" />
