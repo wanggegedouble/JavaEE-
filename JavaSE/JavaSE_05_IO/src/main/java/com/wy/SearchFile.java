@@ -8,7 +8,6 @@ public class SearchFile {
          searchFile(new File("D:/"), "python.exe");
         System.out.println(count);
     }
-
     private static void searchFile(File dir,String fileName){
         if(dir != null && dir.isDirectory()){
             File[] files = dir.listFiles();

@@ -15,6 +15,8 @@
         <module name="SpringBoot" />
         <module name="javaSE_03_interface" />
         <module name="Spring" />
+        <module name="JavaSE_07_Emun" />
+        <module name="JavaSE_06_Collection" />
         <module name="MybatisPlus" />
         <module name="Spring_01_IOC" />
         <module name="springboot_01_quickstart" />
@@ -25,6 +27,7 @@
         <module name="springboot_02_generate" />
         <module name="Mybatis" />
         <module name="Spring_02_IOC_quickstart" />
+        <module name="JavaSE_Utils" />
       </profile>
     </annotationProcessing>
   </component>

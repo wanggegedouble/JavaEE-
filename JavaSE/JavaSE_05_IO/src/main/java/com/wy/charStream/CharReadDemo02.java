@@ -7,7 +7,7 @@ import java.io.Reader;
 public class CharReadDemo02 {
     public static void main(String[] args) {
         try {
-            Reader reader = new FileReader("JavaSE/JavaSE_05_IO/hello.text");
+            Reader reader = new FileReader("\"C:\\Users\\huawei\\Desktop\\新建 文本文档.txt");//JavaSE/JavaSE_05_IO/hello.text
             char[] buffer = new char[1024];
             int len;
             while ((len = reader.read(buffer)) !=-1){
